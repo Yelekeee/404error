@@ -1,0 +1,80 @@
+header{
+    font-family: 'Inconsolata';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 25px;
+    letter-spacing: -0.08em;
+    text-transform: uppercase;
+    color: #333333;
+}
+
+main {
+    display: flex;
+    padding: 60px;
+    justify-content: center;
+}  
+
+.title {
+    font-family: Space Mono;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 95px;
+    letter-spacing: -0.035em;
+    color: #333333;
+}
+
+.article {
+    width: 381px;
+    height: 108px;
+    left: 736px;
+    top: 491px;
+    
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: -0.035em;
+    color: #4F4F4F;
+    }
+    
+    .btn {
+    width: 130px;
+    height: 21px;
+    left: 67px;
+    top: 750px;
+    
+    font-family: 'Space Mono';
+    color: white;
+    font-style: normal;
+    width: 216px;
+    height: 68px;
+    left: 24px;
+    top: 726px;
+    letter-spacing: -0.035em;
+    
+    background-color: #333333;
+    }
+    
+    .img {
+        margin-right: 45px;
+    }
+    
+    footer{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 12px;
+    text-align: center;
+    color: #BDBDBD;
+    }
+    
+    .container{
+        display: flex;
+        align-items: center;
+    }
+
+
